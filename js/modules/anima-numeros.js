@@ -1,4 +1,4 @@
-import initFetchAnimais from "./fetch-animais";
+import fetchAnimais from "./fetch-animais";
 
 /* eslint-disable no-param-reassign */
 export default class AnimaNumeros {
